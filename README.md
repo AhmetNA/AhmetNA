@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Nuri</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on [tkinderIDA](https://github.com/AhmetNA/Binance_terminal)
+- 🔭 I’m currently working on [Binance_terminal](https://github.com/AhmetNA/Binance_terminal)
 
 - 🌱 I’m currently learning **Python, Java**
 
