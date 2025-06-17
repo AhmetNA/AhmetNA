@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Binance_terminal](https://github.com/AhmetNA/Binance_terminal)
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, SQL, C#**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, Python**
 
 - 📫 How to reach me **aydemirahmetnuri@gmail.com**
 
