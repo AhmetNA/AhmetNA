@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Binance_terminal](https://github.com/AhmetNA/Binance_terminal)
 
-- 🌱 I’m currently learning **Python, SQL, C#**
+- 🌱 I’m currently learning **Python, SQL, C#, Kotlin**
 
 - 💬 Ask me about **C, Python, SQL**
 
