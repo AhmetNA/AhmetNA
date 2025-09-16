@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, C#**
 
-- 💬 Ask me about **C, Python**
+- 💬 Ask me about **C, Python, SQL**
 
 - 📫 How to reach me **aydemirahmetnuri@gmail.com**
 
